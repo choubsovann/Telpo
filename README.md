@@ -13,3 +13,11 @@ For help getting started with Flutter, view our
 mobile development, and a full API reference.
 
 For telpo path: https://github.com/choubsovann/telpo.git
+
+## Using USB Printer
+
+Telpo.connect();
+
+Telpo.disconnect();
+
+Telpo.print(Uint8list image);
