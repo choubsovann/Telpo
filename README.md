@@ -13,4 +13,5 @@ For help getting started with Flutter, view our
 mobile development, and a full API reference.
 
 For git url
-[Git Url: https://github.com/choubsovann/telpo.git](https://github.com/choubsovann/telpo.git)
+[telpo:
+path: https://github.com/choubsovann/telpo.git]
