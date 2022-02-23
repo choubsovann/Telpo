@@ -1,17 +1,9 @@
-# telpo
-
+## Telpo POS system
 This project for telpo POS mobile.
 
-## Getting Started
-
-This project is a starting point for a Flutter
-
-For telpo path: https://github.com/choubsovann/telpo.git
-
-## Using USB Printer
-
+######Telpo functions
+```Dart
 Telpo.connect();
-
+Telpo.printImage(Uint8list image);
 Telpo.disconnect();
-
-Telpo.print(Uint8list image);
+```
