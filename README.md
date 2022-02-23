@@ -1,7 +1,8 @@
 ## Telpo POS system
 This project for telpo POS mobile.
 
-#####Telpo functions
+####Telpo functions
+
 ```Dart
 Telpo.connect();
 Telpo.printImage(Uint8list image);
